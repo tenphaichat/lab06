@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.lock
+~$*
+real_screenshots/
+*.tmp
